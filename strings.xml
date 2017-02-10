@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zappos</string>
+    <string-array name = "array_products">
+        <item>apple</item>
+        <item>anasple</item>
+        <item>boll</item>
+        <item>ball</item>
+        <item>balls</item>
+        <item>cat</item>
+        <item>cats</item>
+        <item>dog</item>
+        <item>parrot</item>
+        <item>parrots</item>
+        </string-array>>
+</resources>
